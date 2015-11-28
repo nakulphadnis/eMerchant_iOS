@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>playName</key>
+		<string>Mobiles</string>
+		<key>quotations</key>
+		<array>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>30000</integer>
+				<key>character</key>
+				<string>iPhone 6</string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<real>15000</real>
+				<key>character</key>
+				<string>Samsung</string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<real>15000</real>
+				<key>character</key>
+				<string>HTC</string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>playName</key>
+		<string>Electronics</string>
+		<key>quotations</key>
+		<array>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>30000</integer>
+				<key>character</key>
+				<string>Samsung LCD</string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<real>15000</real>
+				<key>character</key>
+				<string>LG Washing machine </string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<real>15000</real>
+				<key>character</key>
+				<string>Canon DSLR</string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>playName</key>
+		<string>Games</string>
+		<key>quotations</key>
+		<array>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>1000</integer>
+				<key>character</key>
+				<string>Angry Bird</string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>1000</integer>
+				<key>character</key>
+				<string>Candy Crush</string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+			<dict>
+				<key>act</key>
+				<integer>1</integer>
+				<key>scene</key>
+				<integer>1500</integer>
+				<key>character</key>
+				<string>War of Clans</string>
+				<key>quotation</key>
+				<string>HI</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
